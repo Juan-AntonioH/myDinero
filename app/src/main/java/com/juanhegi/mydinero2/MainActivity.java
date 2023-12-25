@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //hola qweqwe
         setContentView(R.layout.activity_main);
         mInput = findViewById(R.id.editDinero);
         mTextEuro = findViewById(R.id.textEuro);
