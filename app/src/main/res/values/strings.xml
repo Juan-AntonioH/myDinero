@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">myDinero2</string>
+    <string name="salir">Salir</string>
 </resources>

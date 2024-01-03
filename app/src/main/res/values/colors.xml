@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="morado_5002">#FF62000E</color>
+    <color name="morado_7002">#FF370003</color>
+    <color name="verde_2002">#FF03DA05</color>
+    <color name="verde_7002">#FF018706</color>
+    <color name="celeste_200">#FF03DAC0</color>
+    <color name="marron">#804000</color>
+    <color name="marron_clarito">#FFD175</color>
+    <color name="azulito">#25497A</color>
 </resources>
